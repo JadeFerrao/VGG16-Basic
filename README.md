@@ -13,7 +13,7 @@ pip install -r requirements.txt
 3. *Training*: The model was trained using the prepared dataset for 10 epochs with a batch size of *.
 
 ## Results
-The model achieved an accuracy of 56% on the rooms dataset.
+The model achieved an accuracy of 53% on the rooms dataset.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
