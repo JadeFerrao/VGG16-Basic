@@ -10,7 +10,7 @@ pip install -r requirements.txt
 # Model Built from Scratch Using Rooms Dataset
 1. *Data Preparation*: The rooms dataset includes images of various room types. Data augmentation techniques were used to increase the dataset size.
 2. *Model Architecture*: The model is built from scratch using the VGG-16 architecture with modifications to suit the room classification task.
-3. *Training*: The model was trained using the prepared dataset for 10 epochs with a batch size of 21 images.
+3. *Training*: The model was trained using the prepared dataset for 10 epochs with a batch size of 32.
 
 ## Results
 The model achieved an accuracy of 53% on the rooms dataset.
